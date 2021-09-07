@@ -23,6 +23,7 @@
     <tr>
         <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Punithraaj&layout=compact&hide=html" alt="Punithraaj" /></p>
     </tr>
+    <br />
     <tr>
         <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Punithraaj&show_icons=true" alt="Punithraaj" /></p>
     </tr>
